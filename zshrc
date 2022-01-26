@@ -131,3 +131,11 @@ export PATH="/Users/raphaelgako/Library/Python/3.7/bin/:$PATH"
   export LDFLAGS="-L/usr/local/opt/v8@3.15/lib"
   export CPPFLAGS="-I/usr/local/opt/v8@3.15/include"
 # ================================================
+#
+#
+#
+# nan2tetris =============================
+  export PATH=$PATH:~/aRtoo/code/tuts/nand2tetris/nand2tetris/tools
+# ======================================
+#
+
